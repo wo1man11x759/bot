@@ -9,7 +9,7 @@ from datetime import datetime
 
 # Настройки
 TOKEN = "7687759121:AAFBy2qiyQvPMxB77zCCDfB0uSUthWM3znU"
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(7687759121:AAFBy2qiyQvPMxB77zCCDfB0uSUthWM3znU)
 
 logging.basicConfig(level=logging.INFO)
 
